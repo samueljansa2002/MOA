@@ -9,7 +9,7 @@ if ('serviceWorker' in navigator) {
             });
     });
 }
-
+ 
 function sayHello() {
-    document.getElementById('hello').innerText = 'Hello World';
+    document.getElementById('hello').innerText = 'Hello world';
 }
